@@ -1,4 +1,3 @@
-#!/usr/local/Cellar/rbenv/0.3.0/shims/ruby
 #Devfest blog
 #Make directory
 #git init
